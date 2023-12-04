@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: violet;
+}
+
+header {
+    margin-top: 3em;
+    color: white;
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 2em;
+    font-weight: 900;
+}
+
+#container3D canvas {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}                     

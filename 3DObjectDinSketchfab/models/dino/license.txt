@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dino Skull, 4K bronze textures, 7k tris
+* source:	https://sketchfab.com/3d-models/dino-skull-4k-bronze-textures-7k-tris-2c3a34e763cb4b239ac22b3600adb6f2
+* author:	Loïc Norgeot (https://sketchfab.com/norgeotloic)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dino Skull, 4K bronze textures, 7k tris" (https://sketchfab.com/3d-models/dino-skull-4k-bronze-textures-7k-tris-2c3a34e763cb4b239ac22b3600adb6f2) by Loïc Norgeot (https://sketchfab.com/norgeotloic) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
